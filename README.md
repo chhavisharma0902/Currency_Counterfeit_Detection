@@ -1,7 +1,7 @@
 # 💰 Deep Learning Based Currency Counterfeit Detection
 
 ##  Project Title
-Fake Currency Detection using Deep Learning (CNN and MobileNetV2)
+Currency Counterfeit Detection using Deep Learning (CNN and MobileNetV2)
 
 ---
 
@@ -47,7 +47,7 @@ The model learns patterns that distinguish **real currency notes from counterfei
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion_Matrix_CNN.png)
 
 ---
 
@@ -67,7 +67,7 @@ Transfer learning helps leverage features learned from large image datasets.
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion_Matrix_MobileNet.png)
 
 ---
 
