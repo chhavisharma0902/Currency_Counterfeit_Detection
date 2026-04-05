@@ -43,6 +43,12 @@ The CNN consists of:
 
 The model learns patterns that distinguish **real currency notes from counterfeit ones**.
 
+## Model Results
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
 ---
 
 ### 2️⃣ Transfer Learning using MobileNetV2
@@ -56,6 +62,12 @@ Steps performed:
 - Train the model on the currency dataset
 
 Transfer learning helps leverage features learned from large image datasets.
+
+## Model Results
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
