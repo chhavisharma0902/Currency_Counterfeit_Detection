@@ -1,4 +1,4 @@
-# 💰 Deep Learning Based Fake Currency Detection
+# 💰 Deep Learning Based Currency Counterfeit Detection
 
 ##  Project Title
 Fake Currency Detection using Deep Learning (CNN and MobileNetV2)
