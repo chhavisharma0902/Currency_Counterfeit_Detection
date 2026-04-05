@@ -45,6 +45,10 @@ The model learns patterns that distinguish **real currency notes from counterfei
 
 ## Model Results
 
+### Accuracy
+
+![Accuracy](images/Accuracy_CNN.png)
+
 ### Confusion Matrix
 
 ![Confusion Matrix](images/Confusion_Matrix_CNN.png)
@@ -64,6 +68,10 @@ Steps performed:
 Transfer learning helps leverage features learned from large image datasets.
 
 ## Model Results
+
+### Accuracy 
+
+![Accuracy](images/Accuracy_MobileNet.png)
 
 ### Confusion Matrix
 
